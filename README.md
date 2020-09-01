@@ -14,7 +14,7 @@
 * Dataset fornecido por PromptCloud no site Kaggle
 * Análise exploratória de dados(EDA) de filmes do site IMDB de 2006-2016
 * Nesse conjunto de dados, qual o ano dos filmes?
-* Qual é a média de das avaliações?
+* Qual é a média das avaliações dos usuários?
 * Quais são os filmes melhores avaliados e os piores?
 * É possível criar um modelo que prediz o ranking do filme a partir do Metascore(site) e a avaliação dos usuários?
 
