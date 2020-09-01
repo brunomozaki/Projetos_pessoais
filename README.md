@@ -1,4 +1,4 @@
-# Personal-projects
+# Projetos pessoais
 --------------
 [Appstore Data analysis](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
 * Dataset da Dataquest
