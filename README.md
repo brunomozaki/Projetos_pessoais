@@ -17,6 +17,7 @@
 * Qual é a média de das avaliações?
 * Quais são os filmes melhores avaliados e os piores?
 * É possível criar um modelo que prediz o ranking do filme a partir do Metascore(site) e a avaliação dos usuários?
+
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/imdb%20filmes%20ano.png)
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/imdb%20rating.png)
 --------------
