@@ -15,6 +15,8 @@
 * Qual é a média de das avaliações?
 * Quais são os filmes melhores avaliados e os piores?
 * É possível criar um modelo que prediz o ranking do filme a partir do Metascore(site) e a avaliação dos usuários?
+![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/imdb%20filmes%20ano.png)
+![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/imdb%20rating.png)
 --------------
 [Preço de casas Brasil](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/Pre%C3%A7o%20de%20casas%20Brasil.ipynb)
 * Dataset do site Kaggle pelo usuário Rubens Junior
@@ -23,6 +25,7 @@
 * Qual a correlação entre as variáveis?
 * Criação de um modelo preditivo de preços das casas
 * Mapa dos estados, coloridos conforme preço
+![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/casas%20brasil%20estados%20mapa.png)
 --------------
 [Titanic](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/Titanic.ipynb)
 * Dataset do site Kaggle
@@ -30,12 +33,15 @@
 * Qual o perfil das pessoas que sobreviveram ao acidente?
 * Lidando com dados faltantes (missing data)
 * Modelo preditivo de passageiros que sobreviveram. Comparação entre Regressão logistica e Desicion trees
+![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/titanic%20perfil1.png)
+![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/titanic%20perfil%202.png)
 --------------
 [Youtube data](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/Youtube%20data.ipynb)
 * Dataset do site Kaggle do usúario Mitchell J
 * Análise exploratória de dados(EDA) de vídeos do Youtube(Canadá)
 * Quais são os canais mais populares?
 * Existe alguma forma de prever o número de visualizações a partir do número de likes de um vídeo?
+![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/youtube%20canais%20pop.png)
 
 
 
