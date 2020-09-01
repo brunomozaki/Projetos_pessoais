@@ -4,6 +4,6 @@
 * Análise de aplicativos da App store
 * Dataset da Dataquest
 * Respondendo as seguintes perguntas:
-* Qual é a categoria mais popular?
-* Preço dos aplicativos?
-* Existe alguma correlação entre as variáveis?
+.* Qual é a categoria mais popular?
+.* Preço dos aplicativos?
+.* Existe alguma correlação entre as variáveis?
