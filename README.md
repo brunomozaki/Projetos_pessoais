@@ -2,7 +2,7 @@
 
 ##### Abaixo,encontram-se os projetos e um resumo do que foi realizado. Para visualizar cada um com mais detalhes, clique no título do projeto.
 --------------
-[Appstore Data analysis](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
+[Appstore Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
 * Dataset da Dataquest
 * Análise exploratória de dados(EDA) de aplicativos da App store
 * Qual é a categoria mais popular?
