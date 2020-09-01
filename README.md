@@ -1,6 +1,6 @@
 # Projetos pessoais
 
-### Abaixo,encontram-se os projetos e um resumo do que foi realizado. Para visualizar cada um com mais detalhes, clique no título do projeto.
+##### Abaixo,encontram-se os projetos e um resumo do que foi realizado. Para visualizar cada um com mais detalhes, clique no título do projeto.
 --------------
 [Appstore Data analysis](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
 * Dataset da Dataquest
