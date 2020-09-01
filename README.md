@@ -6,6 +6,7 @@
 * Qual é a categoria mais popular?
 * Preço dos aplicativos?
 * Existe alguma correlação entre as variáveis?
+[](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/app_categorias.png)
 --------------
 [Analysing IMDB's movies (2006-2016)](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/IMDB%20data.ipynb)
 * Dataset fornecido por PromptCloud no site Kaggle
