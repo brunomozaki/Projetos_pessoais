@@ -6,7 +6,8 @@
 * Qual é a categoria mais popular?
 * Preço dos aplicativos?
 * Existe alguma correlação entre as variáveis?
-<p><p>
+
+
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/app_categorias.png)
 --------------
 [Analysing IMDB's movies (2006-2016)](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/IMDB%20data.ipynb)
@@ -26,6 +27,7 @@
 * Qual a correlação entre as variáveis?
 * Criação de um modelo preditivo de preços das casas
 * Mapa dos estados, coloridos conforme preço
+
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/casas%20brasil%20estados%20mapa.png)
 --------------
 [Titanic](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/Titanic.ipynb)
