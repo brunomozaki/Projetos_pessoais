@@ -39,6 +39,7 @@
 * Qual o perfil das pessoas que sobreviveram ao acidente?
 * Lidando com dados faltantes (missing data)
 * Modelo preditivo de passageiros que sobreviveram. Comparação entre Regressão logistica e Desicion trees
+
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/titanic%20perfil1.png)
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/titanic%20perfil%202.png)
 --------------
