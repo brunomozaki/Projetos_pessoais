@@ -32,7 +32,7 @@
 * Mapa dos estados, coloridos conforme preço
 
 
-<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/casas%20brasil%20estados%20mapa.png" width="400">
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/casas%20brasil%20estados%20mapa.png" width="300">
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/corr%20casas.png" width="400">
 
 --------------
