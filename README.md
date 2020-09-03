@@ -32,7 +32,7 @@
 * Mapa dos estados, coloridos conforme preço
 
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/casas%20brasil%20estados%20mapa.png)
-<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/corr%20casas.png" width="60">
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/corr%20casas.png" width="200">
 
 --------------
 [Titanic](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Titanic.ipynb)
