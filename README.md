@@ -1,6 +1,16 @@
 # Projetos pessoais
 
 ##### Abaixo,encontram-se os projetos e um resumo do que foi realizado. Para visualizar cada um com mais detalhes, clique no título do projeto.
+
+
+[Meal Delivery Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Meal_delivery_analysis.ipynb)
+* Dataset de Analytics Vidhya & Genpact
+* Análise exploratória de dados(EDA) 
+* Qual a culinária mais pedida?
+* Deep dive nos pedidos da culinária mais popular
+* SARIMA Forecast
+
+
 --------------
 [Appstore Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
 * Dataset da Dataquest
