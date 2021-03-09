@@ -10,8 +10,8 @@
 * Deep dive nos pedidos da culinária mais popular
 * SARIMA Forecast
 
-![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/forecast_pic.png)
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/cuisine.png" width="375">
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/forecast_pic.png" width="375">
 --------------
 [Appstore Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
 * Dataset da Dataquest
