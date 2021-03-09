@@ -4,12 +4,14 @@
 
 
 [Meal Delivery Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Meal_delivery_analysis.ipynb)
-* Dataset de Analytics Vidhya & Genpact
+* Dataset de Analytics Vidhya & Genpact. Submetido no Kaggle por  Saptarshi Ghosh.
 * Análise exploratória de dados(EDA) 
 * Qual a culinária mais pedida?
 * Deep dive nos pedidos da culinária mais popular
 * SARIMA Forecast
 
+![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/cuisine.png)
+![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/forecast_pic.png)
 
 --------------
 [Appstore Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
