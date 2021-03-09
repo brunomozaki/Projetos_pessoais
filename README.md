@@ -10,7 +10,7 @@
 * Deep dive nos pedidos da culinária mais popular
 * SARIMA Forecast
 
-<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/cuisine.png" width="500">
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/cuisine.png" width="550">
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/forecast_pic.png" width="550">
 
 --------------
