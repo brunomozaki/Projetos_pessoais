@@ -11,7 +11,8 @@
 * SARIMA Forecast
 
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/cuisine.png" width="500">
-<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/forecast_pic.png" width="500">
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/forecast_pic.png" width="550">
+
 --------------
 [Appstore Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
 * Dataset da Dataquest
