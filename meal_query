@@ -1,0 +1,75 @@
+with center_table as(
+	select
+	center_id,
+	city_code,
+	region_code as region,
+	center_type,
+	op_area
+	from fulfilment_center_info
+
+),
+meal_table as (
+	select
+	meal_id,
+	category,
+	cuisine
+	from meal_info
+
+
+),
+train_table as (
+	select
+	id,
+	week,
+	center_id,
+	meal_id,
+	avg(checkout_price),
+	avg(base_price),
+	emailer_for_promotion,
+	homepage_featured,
+	num_orders
+	from train
+	group by id,week,
+	center_id,
+	meal_id,
+	emailer_for_promotion,
+	homepage_featured,
+	num_orders
+
+
+
+)
+
+select
+	a.center_id,
+	city_code,
+	region,
+	center_type,
+	op_area,
+	id,
+	a.meal_id,
+	category,
+	cuisine,
+	week,
+	checkout_price,
+	base_price,
+	emailer_for_promotion,
+	homepage_featured,
+	num_orders
+	from train as a
+	left join center_table as b on a.center_id=b.center_id
+	left join meal_table as c on a.meal_id=c.meal_id
+	group by
+	a.center_id,
+	city_code,
+	region,
+	center_type,
+	op_area,
+	a.meal_id,
+	category,
+	cuisine,
+	week,
+	emailer_for_promotion,
+	homepage_featured,
+	num_orders,
+	id
