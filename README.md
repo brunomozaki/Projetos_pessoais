@@ -14,7 +14,7 @@
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/forecast_pic.png" width="550">
 
 --------------
-[Appstore Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
+[Appstore Data analysis]()
 * Dataset da Dataquest
 * Análise exploratória de dados(EDA) de aplicativos da App store
 * Qual é a categoria mais popular?
