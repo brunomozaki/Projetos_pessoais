@@ -9,9 +9,12 @@
 * Qual a culinária mais pedida?
 * Deep dive nos pedidos da culinária mais popular
 * SARIMA Forecast no número de pedidos para as 10 próximas semanas
+* Facebook Prophet Forecast
+* Comparação entre SARIMA e Prophet
 
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/cuisine.png" width="550">
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/forecast_pic.png" width="550">
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/facebook_prophet_forecast.png" width="550">
 
 --------------
 [Appstore Data analysis]()
