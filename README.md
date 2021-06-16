@@ -15,7 +15,8 @@
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/cuisine.png" width="550">
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/forecast_pic.png" width="550">
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/facebook_prophet_forecast.png" width="550">
---------------
+
+-------------- 
 [Olist E-commerce](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Olist%20notebook.ipynb)
 * Dataset submetido no Kaggle pela Olist
 * Análise exploratória de dados(EDA) 
@@ -24,6 +25,9 @@
 * Previsão de pedidos para o próximo mês
 * Quais categorias de pedidos mais saem? E quais possuem melhor avaliação?
 * No geral, as avaliações dos produtos são mais positivas ou negativas?
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/mapa_olist_consumidores.png" width="550">
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/Previsa%CC%83o%20pedidos%20olist.png" width="550">
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/wordcloud%20reviews.png" width="550">
 
 -------------- 
 [Appstore Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
