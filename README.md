@@ -17,8 +17,7 @@
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/facebook_prophet_forecast.png" width="550">
 --------------
 [Olist E-commerce](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Olist%20notebook.ipynb)
-* Dataset submetido no Kaggle pela Olist. Descrição: "Este é um conjunto de dados público de comércio eletrônico brasileiro de pedidos feitos na Olist Store. O conjunto de dados contém informações de 100 mil pedidos de 2016 a 2018 realizados em diversos mercados no Brasil. Seus recursos permitem visualizar um pedido em várias dimensões: desde o status do pedido, preço, desempenho de pagamento e frete até a localização do cliente, atributos do produto e, finalmente, avaliações escritas pelos clientes. Também lançamos um conjunto de dados de geolocalização que relaciona os códigos postais brasileiros às coordenadas lat / lng.
-Estes são dados comerciais reais, foram anonimizados e as referências às empresas e parceiros no texto da avaliação foram substituídas pelos nomes das grandes casas de Game of Thrones."
+* Dataset submetido no Kaggle pela Olist
 * Análise exploratória de dados(EDA) 
 * Qual o perfil dos consumidores? De onde eles são?
 * Qual a forma de pagamento mais utilizada?
