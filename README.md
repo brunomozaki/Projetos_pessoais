@@ -26,8 +26,7 @@ Estes são dados comerciais reais, foram anonimizados e as referências às empr
 * Quais categorias de pedidos mais saem? E quais possuem melhor avaliação?
 * No geral, as avaliações dos produtos são mais positivas ou negativas?
 
-
---------------
+-------------- 
 [Appstore Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
 * Dataset da Dataquest
 * Análise exploratória de dados(EDA) de aplicativos da App store
