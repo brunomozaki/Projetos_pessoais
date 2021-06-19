@@ -1,7 +1,7 @@
 # Projetos pessoais
 
 ##### Abaixo,encontram-se os projetos e um resumo do que foi realizado. Para visualizar cada um com mais detalhes, clique no título do projeto.
-
+---
 
 [Meal Delivery Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Meal_Delivery_Analysis.ipynb)
 * Dataset de Analytics Vidhya & Genpact. Submetido no Kaggle por  Saptarshi Ghosh.
