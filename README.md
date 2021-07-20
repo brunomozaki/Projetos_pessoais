@@ -5,10 +5,10 @@
 [Spotify Recommender System](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Spotify%20Recommender%20System.ipynb)
 * Obtenção de dados de músicas do Spotify pelo API
 * EDA de uma playlist minha
-* Criação de um sistema de recomendação a partir de características musicais e popularidade de uma playslist
+* Criação de um sistema de recomendação a partir de características musicais e popularidade de uma playlist
 * Comparação entre músicas recomendadas pelo spotify e o sistema de recomendação criado
 
-<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recomend_spotify.jpeg" width="200"> <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recommended.png" width="200">
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recomend_spotify.jpeg" width="200"> </pre> <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recommended.png" width="200">
 
 ---
 [Meal Delivery Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Meal_Delivery_Analysis.ipynb)
