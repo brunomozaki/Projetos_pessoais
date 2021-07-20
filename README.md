@@ -10,6 +10,7 @@
 
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recomend_spotify.jpeg" width="200">
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recommended.png" width="200">
+
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recomend_spotify.jpeg)
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recommended.png)
 
