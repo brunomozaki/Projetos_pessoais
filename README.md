@@ -8,8 +8,7 @@
 * Criação de um sistema de recomendação a partir de características musicais e popularidade de uma playslist
 * Comparação entre músicas recomendadas pelo spotify e o sistema de recomendação criado
 
-<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recomend_spotify.jpeg" width="200">
-<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recommended.png" width="200">
+<img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recomend_spotify.jpeg" width="200"> <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recommended.png" width="200">
 
 ---
 [Meal Delivery Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Meal_Delivery_Analysis.ipynb)
