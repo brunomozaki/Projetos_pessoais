@@ -1,0 +1,7 @@
+slackclient
+pandas
+bs4
+webdriver_manager.chrome
+selenium
+python-dotenv
+tabulate
