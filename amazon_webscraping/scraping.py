@@ -1,4 +1,5 @@
 import csv
+import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
@@ -61,4 +62,8 @@ def main(search_term):
         writer.writerows(records)
 
 main('data science')
+
+df = pd.read_csv('results.csv', delimiter=';')
+df = df[df['ReviewCount'].notna()]
+df.to_csv('ds_books_results.csv', sep= ';',index=False,  encoding= 'utf-8',decimal='')  # fix to decimal place
 
