@@ -15,21 +15,20 @@ conn = psycopg2.connect(database="amazon_ds",
 )
 
 cur = conn.cursor()
+
 cur.execute("""
     CREATE TABLE IF NOT EXISTS DS_BOOKS(
-    DESCRIPTION TEXT,
-    PRICE TEXT,
-    RATING TEXT,
-    REVIEW_COUNT INTEGER,
-    URL VARCHAR
+    DESCRIPTION varchar(255),
+    PRICE varchar(255),
+    RATING varchar(255),
+    REVIEW_COUNT  INTEGER,
+    URL varchar
 )
  """)
 conn.commit()
 
-with open('amazon_webscraping/results.csv', 'r') as f:
-    next(f) 
-    cur.copy_from(f, 'DS_BOOKS', columns=('DESCRIPTION', 'PRICE', 'RATING', 'REVIEW_COUNT'), sep=';')
+with open('amazon_webscraping/ds_books_results.csv', 'r') as f:
+    next(f, None) 
+    cur.copy_from(f, 'DS_BOOKS', columns=('DESCRIPTION', 'PRICE', 'RATING', 'REVIEW_COUNT', 'URL'), sep=';', null= '')
 
 conn.commit()
-
-#columns=('DESCRIPTION', 'PRICE', 'RATING', 'REVIEW_COUNT')
