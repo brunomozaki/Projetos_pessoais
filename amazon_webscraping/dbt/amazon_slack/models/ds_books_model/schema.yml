@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: stg_ds_books_model
+    database: amazon_ds
+    schema: public
+    
+
+    tables:
+      - name: ds_books
+    
