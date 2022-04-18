@@ -1,11 +1,11 @@
 WITH BASE AS (SELECT 
 	*,
-	CASE WHEN REVIEW_COUNT > 250 -- RANDOM NUMBER
+	CASE WHEN REVIEW_COUNT > 250 -- Random number
 		THEN 'POPULAR'
 		ELSE 'NOT POPULAR'
 		END POPULARITY,
-	REPLACE(SPLIT_PART(RATING,'de', 1 ), ',', '.')::NUMERIC		                    RATING_NUM,
-    REPLACE(SPLIT_PART(SUBSTRING(PRICE,4,6), 'R$ ', 1), ',', '.')::NUMERIC          PRICE_NUM
+	REPLACE(SPLIT_PART(RATING,'de', 1 ), ',', '.')::NUMERIC		    RATING_NUM,  -- extracting only the rating as numeric value
+    REPLACE(SUBSTRING(PRICE,4,6), ',', '.')::NUMERIC                PRICE_NUM    -- extracting only the price as numeric value
 			  
     
 	
