@@ -2,7 +2,7 @@
 
 ##### Abaixo,encontram-se os projetos e um resumo do que foi realizado. Para visualizar cada um com mais detalhes, clique no título do projeto.
 ---
-[Spotify Recommender System](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Spotify%20Recommender%20System.ipynb)
+[Spotify Recommender System](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/Spotify_recommender_system/Spotify%20Recommender%20System.ipynb)
 * Obtenção de dados de músicas do Spotify pelo API
 * EDA de uma playlist minha
 * Criação de um sistema de recomendação a partir de características musicais e popularidade de uma playlist
@@ -11,7 +11,7 @@
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recomend_spotify.jpeg" width="200"> </pre> <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/recommended.png" width="200">
 
 ---
-[Meal Delivery Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Meal_Delivery_Analysis.ipynb)
+[Meal Delivery Data analysis](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/Meal_delivery_analysis/Meal_Delivery_Analysis.ipynb)
 * Dataset de Analytics Vidhya & Genpact. Submetido no Kaggle por  Saptarshi Ghosh.
 * Análise exploratória de dados(EDA) 
 * Qual a culinária mais pedida?
@@ -25,7 +25,7 @@
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/facebook_prophet_forecast.png" width="550">
 
 -------------- 
-[Olist E-commerce](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Olist%20notebook.ipynb)
+[Olist E-commerce](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/Olist_analysis/Olist%20notebook.ipynb)
 * Dataset submetido no Kaggle pela Olist
 * Análise exploratória de dados(EDA) 
 * Qual o perfil dos consumidores? De onde eles são?
@@ -38,7 +38,7 @@
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/wordcloud%20reviews.png" width="550">
 
 -------------- 
-[Appstore Data analysis](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Appstore%20data%20analysis.ipynb)
+[Appstore Data analysis](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/Appstore_data_analysis/Appstore%20data%20analysis.ipynb)
 * Dataset da Dataquest
 * Análise exploratória de dados(EDA) de aplicativos da App store
 * Qual é a categoria mais popular?
@@ -48,7 +48,7 @@
 
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/app_categorias.png)
 --------------
-[Analysing IMDB's movies (2006-2016)](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/IMDB%20data.ipynb)
+[Analysing IMDB's movies (2006-2016)](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/imdb_analysis/IMDB%20data.ipynb)
 * Dataset fornecido por PromptCloud no site Kaggle
 * Análise exploratória de dados(EDA) de filmes do site IMDB de 2006-2016
 * Nesse conjunto de dados, qual o ano dos filmes?
@@ -59,7 +59,7 @@
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/imdb%20filmes%20ano.png)
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/imdb%20rating.png)
 --------------
-[Preço de casas Brasil](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Pre%C3%A7o%20de%20casas%20Brasil.ipynb)
+[Preço de casas Brasil](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/Preco_casa_analysis/Preço%20de%20casas%20Brasil.ipynb)
 * Dataset do site Kaggle pelo usuário Rubens Junior
 * Análise exploratória de dados(EDA) do preço de casas brasileiras
 * Limpeza de dados
@@ -71,7 +71,7 @@
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/corr%20casas.png" width="375">
 
 --------------
-[Titanic](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Titanic.ipynb)
+[Titanic](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/Titanic/Titanic.ipynb)
 * Dataset do site Kaggle
 * Análise exploratória de dados(EDA) dos passageiros do Titanic
 * Qual o perfil das pessoas que sobreviveram ao acidente?
@@ -81,7 +81,7 @@
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/titanic%20perfil1.png)
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/titanic%20perfil%202.png)
 --------------
-[Youtube data](https://nbviewer.jupyter.org/github/BrunoMO47/Projetos_pessoais/blob/master/Youtube%20data.ipynb)
+[Youtube data](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/Youtube_data_analysis/Youtube%20data.ipynb)
 * Dataset do site Kaggle do usúario Mitchell J
 * Análise exploratória de dados(EDA) de vídeos do Youtube(Canadá)
 * Quais são os canais mais populares?
