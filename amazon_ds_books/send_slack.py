@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 import json
 import psycopg2
 
-env_path = Path('amazon_webscraping/.env')        # Reads from .env file so that the token doesnt need to be written on the script
+env_path = Path('amazon_ds_books/.env')        # Reads from .env file so that the token doesnt need to be written on the script
 load_dotenv(dotenv_path= env_path)
 
 
@@ -14,7 +14,7 @@ load_dotenv(dotenv_path= env_path)
 client = slack.WebClient(token = os.environ['SLACK_TOKEN'])
 
 conn = psycopg2.connect(database="amazon_ds",
-                        user='postgres', password=  os.environ['POST_PASS'],
+                        user= os.environ['POST_USER'], password=  os.environ['POST_PASS'],
                         host='localhost', port='5432'
 )
 
