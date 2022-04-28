@@ -2,6 +2,16 @@
 
 ##### Abaixo,encontram-se os projetos e um resumo do que foi realizado. Para visualizar cada um com mais detalhes, clique no título do projeto.
 ---
+[Amazon DS Books](https://github.com/brunomozaki/Projetos_pessoais/tree/master/amazon_ds_books)
+* Webscraping no site da amazon.com.br para livros relacionados a ciência de dados. Dados são salvos em um arquivo csv. Script do scraper de Israel Dryer (https://github.com/israel-dryer/Amazon-Scraper)
+* Carregamento dos dados para o banco de dados (Postgres)
+* Uma vez no banco de dados, são realizadas transformações utilizando o dbt como ferramenta
+* Script de um bot no Slack, que lê os dados transformados no banco de dados, manda mensagens do resumo dos preços dos livros e do livro mais popular
+* EDA com os dados obtidos para verificar os padrões de preços dos livros, avaliações, preços e suas correlações
+
+<img src="https://github.com/brunomozaki/Projetos_pessoais/blob/master/amazon_ds_books/images/diagram.png" width="500">\
+
+---
 [Spotify Recommender System](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/Spotify_recommender_system/Spotify%20Recommender%20System.ipynb)
 * Obtenção de dados de músicas do Spotify pelo API
 * EDA de uma playlist minha
@@ -12,7 +22,7 @@
 
 ---
 [Meal Delivery Data analysis](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/Meal_delivery_analysis/Meal_Delivery_Analysis.ipynb)
-* Dataset de Analytics Vidhya & Genpact. Submetido no Kaggle por  Saptarshi Ghosh.
+* Dataset de Analytics Vidhya & Genpact. Submetido no Kaggle por Saptarshi Ghosh.
 * Análise exploratória de dados(EDA) 
 * Qual a culinária mais pedida?
 * Deep dive nos pedidos da culinária mais popular
@@ -70,13 +80,13 @@
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/casas%20brasil%20estados%20mapa.png)
 <img src="https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/corr%20casas.png" width="375">
 
---------------
+<!-- --------------
 [Titanic](https://nbviewer.org/github/brunomozaki/Projetos_pessoais/blob/master/Titanic/Titanic.ipynb)
 * Dataset do site Kaggle
 * Análise exploratória de dados(EDA) dos passageiros do Titanic
 * Qual o perfil das pessoas que sobreviveram ao acidente?
 * Lidando com dados faltantes (missing data)
-* Modelo preditivo de passageiros que sobreviveram. Comparação entre Regressão logistica e Desicion trees
+* Modelo preditivo de passageiros que sobreviveram. Comparação entre Regressão logistica e Desicion trees -->
 
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/titanic%20perfil1.png)
 ![](https://github.com/BrunoMO47/Projetos_pessoais/blob/master/imagens/titanic%20perfil%202.png)
