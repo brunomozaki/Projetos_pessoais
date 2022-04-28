@@ -3,6 +3,7 @@ This project was based on the idea of me buying a few data science books. Ever s
 thought that books are a great way of complementing our knowldge on a deeper level and it is a great reference guide. Also, having a bot send me messages for the most expensive, most popular books would be very helpful.
 
 
+
 #### Steps:
 1. Webscrape the amazon website for books related to data science;
 2. Load the data into Postgres db; 
@@ -10,6 +11,7 @@ thought that books are a great way of complementing our knowldge on a deeper lev
 4. Slack bot that sends message for price descriptions as well as the most popular book and its price, number of reviews and link to buy;
 5. Small and quick analysis of the scraped data, trying to see if there is any correlation and insights.
 
+<img src="https://github.com/brunomozaki/Projetos_pessoais/blob/master/amazon_ds_books/images/diagram.png" width="500">
 
 #### Step 1
 The script for the webscraper was purely based on the tutorial and code made available by Israel Dryer (also known as Izzy Analytics). The link to the youtube tutorial can be found on the following link:\
