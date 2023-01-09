@@ -9,7 +9,7 @@ thought that books are a great way of complementing our knowldge on a deeper lev
 2. Load the data into Postgres db; 
 3. Transform the data using dbt;
 4. Slack bot that sends message for price descriptions as well as the most popular book and its price, number of reviews and link to buy;
-5. Small and quick analysis of the scraped data, trying to see if there is any correlation and insights.
+5. Small and quick analysis of the scraped data, trying to see if there are any correlation and insights.
 
 <img src="https://github.com/brunomozaki/Projetos_pessoais/blob/master/amazon_ds_books/images/diagram.png" width="500">
 
